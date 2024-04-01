@@ -1,1 +1,2 @@
 # OpenAI_langchain_Function_call  
+This repository demonstrates the use of Azure OpenAI for dynamic function calls based on natural language queries. By leveraging parameters such as "auto," "none," and "{function_name}," you can control the model's behavior regarding function calls. This concept is fundamental for building enterprise RAG models that interact with databases and APIs. Explore the code to see these concepts in action.
